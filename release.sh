@@ -14,7 +14,7 @@ python setup.py sdist bdist_wheel
 # twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
 # release to the production server
-twine upload dist/*
+#twine upload dist/*
 
 ## npmjs stuff
 # dry run build and release
