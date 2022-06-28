@@ -1,6 +1,6 @@
 {
   "name": "@teknoir/jupyterlab-theme-teknoir",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Teknoir theme for JupyterLab.",
   "keywords": [
     "jupyter",
